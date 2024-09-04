@@ -42,7 +42,7 @@ section{
     min-height: 100vh;/*استخدام وحدة الفي اتش عشان تكون باين الكلام ومغطي على الخلفية الي وراه*/
     display: flex;
     align-items: center;
-    background: url(eslam.jpg)no-repeat;
+    background: url(1.jpg)no-repeat;
     background-size:cover ;
     background-position: top;
     background-attachment:fixed ;
